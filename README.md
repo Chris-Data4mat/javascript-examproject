@@ -12,9 +12,9 @@ My JavaScript exam project for the EC JavaScript Developer course fall semester 
 -Exchange rate (vs SEK)  
 -Input amount to exchange and the calculated amount in the other currency.  
 
-###Weather, 5 day forecast with thefollowing information:
--Description and/or icon
--Weekday
+### Weather, 5 day forecast with thefollowing information:
+-Description and/or icon  
+-Weekday  
 -Temperature at or around 12 (noon)
 
 
